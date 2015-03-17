@@ -1,0 +1,1 @@
+Caelum is an add-on for the 3D graphics rendering engine OGRE, aimed to render atmospheric effects.
